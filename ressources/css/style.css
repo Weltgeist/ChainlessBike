@@ -8,6 +8,7 @@
 
 #chainless-bike-pic {
   height: 200px;
+  filter: drop-shadow(1px 1px 1px black);
 }
 
 .small-pic {
