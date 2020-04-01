@@ -40,4 +40,17 @@ nav li {
 
 nav a {
   text-decoration: none;
+  color: black;
+}
+
+a.blue {
+  color: blue;
+}
+
+#greets ul {
+  list-style-type: none;
+}
+
+.bike-section {
+   padding: 20px 50px;
 }
