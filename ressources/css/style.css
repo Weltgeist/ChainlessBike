@@ -10,6 +10,11 @@
   height: 200px;
 }
 
+.small-pic {
+  height: 100px;
+  width: 100px;
+}
+
 #bike {
   color: #4D00FF;
   font-size: 100px;
